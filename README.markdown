@@ -6,3 +6,4 @@ The project is a simple multi-module Maven project. To build the whole project, 
 
 Test Build Trigger through Jenkins
 
+Second Test for Build Trigger
